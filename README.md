@@ -9,3 +9,14 @@ This dashboard allows users to analyze business performance across multiple dime
 ## Dataset used
 
 - <a href="https://github.com/riya1234000/EXCEL-DASHBOARD-PROJECT/blob/main/CUSTOMER%20PROJECTS.xlsx">Dataset</a>
+
+## Questions (KPI'S)
+1. What is the Total Net Sales of this Sales Company?
+2. what is the total profit amount of this Sales Company?
+3. Which Region and City contributes the most to overall Net Total and Total Profit Pmount?
+4. Who purchased more:- Product Category & Product Sub-Category?
+5. Which product and sub-product have the maximum Average Profit Margin% ?
+6. What are the different Delievered status?
+7. Hightest selling month?
+8. Great Payment Mode for the Customers?
+9. How do different sales channels compare in terms of customer preference?
