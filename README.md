@@ -20,3 +20,6 @@ This dashboard allows users to analyze business performance across multiple dime
 7. Hightest selling month?
 8. Great Payment Mode for the Customers?
 9. How do different sales channels compare in terms of customer preference?
+
+## Dashboard interactive 
+- <a href="https://github.com/riya1234000/EXCEL-DASHBOARD-PROJECT/blob/main/rdashboard.png"> view Dashboard </a> 
