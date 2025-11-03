@@ -6,3 +6,6 @@ Welcome to my Excel Dashboard project — a fully interactive, filter-driven ana
 
 This dashboard allows users to analyze business performance across multiple dimensions such as Order-ID, Date, Customer Name, Customer_ID, Region, City, Sales Channels, Product sub-category, Product name, Product_ID, Quantity sold, Unit Price, Tatal sales, Discount%, Discount Amount, Net sale, Payment mode, Delievery status, Profit margin%, Profit Amount. It uses dropdown filters, dynamic summary tables, and responsive charts to deliver real-time insights in 2023-2024.
 
+## Dataset used
+
+- <a href="https://github.com/riya1234000/EXCEL-DASHBOARD-PROJECT/blob/main/CUSTOMER%20PROJECTS.xlsx">Dataset</a>
