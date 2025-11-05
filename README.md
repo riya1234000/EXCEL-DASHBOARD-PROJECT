@@ -8,7 +8,7 @@ This dashboard allows users to analyze business performance across multiple dime
 
 ## Dataset used
 
-- <a href=>Dataset</a>
+- <a href="https://github.com/riya1234000/EXCEL-DASHBOARD-PROJECT/blob/main/dashboard.docx">Dataset</a>
 
 ## Questions (KPI'S)
 1. What is the Total Net Sales of this Sales Company?
@@ -31,6 +31,8 @@ This dashboard allows users to analyze business performance across multiple dime
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard Screenshot
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/67a939f9-f9d6-478e-91e6-fd8429a70bbe" />
+
 
 
 
