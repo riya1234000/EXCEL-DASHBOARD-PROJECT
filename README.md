@@ -22,4 +22,14 @@ This dashboard allows users to analyze business performance across multiple dime
 9. How do different sales channels compare in terms of customer preference?
 
 ## Dashboard interactive 
-- <a href="https://github.com/riya1234000/EXCEL-DASHBOARD-PROJECT/blob/main/rdashboard.png"> view Dashboard </a> 
+- <a href="https://github.com/riya1234000/EXCEL-DASHBOARD-PROJECT/blob/main/rdashboard.png"> view Dashboard </a>
+
+## Process
+- verify data for any missing value and anomalies sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard Screenshot
+
+
