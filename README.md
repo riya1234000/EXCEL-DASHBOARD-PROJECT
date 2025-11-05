@@ -34,9 +34,14 @@ This dashboard allows users to analyze business performance across multiple dime
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/67a939f9-f9d6-478e-91e6-fd8429a70bbe" />
 
 ## Project Insights
-West Region Leads in Performance
-The West region has the highest total value: ₹5,835,615.62, accounting for 21.00% of the overall share.
-
-This suggests strong customer engagement or sales volume in that region — a potential area for further investment or expansion.
-
+- The West region leads with ₹5,835,615.62 in net sales and a 21.00% profit share, indicating peak performance. In contrast, the South region trails with ₹5,333,577.25 and 19.14%, highlighting room for strategic improvement.
+- Raipur and Pune lead with net sales over ₹20.5 lakh and profit shares of 7.45% and 7.30%, respectively — signaling high-performing urban markets. In contrast, Mumbai, despite strong sales (₹19.85 lakh), shows a lower profit share of 6.12%, suggesting margin challenges.
+- Offline purchases slightly lead, with 50.16% of transactions — indicating a continued trust in physical retail despite digital growth.
+- Online sales are nearly equal at 49.84%, showing strong digital adoption and potential for e-commerce expansion.
+- UPI is the most preferred payment method, used in 25.38% of transactions — reflecting customer comfort with digital payments.
+- Card (25.17%), COD (25.18%), and Wallet (24.27%) are nearly evenly distributed, suggesting a diverse payment landscape with no dominant method.
+- Home Decor and Beauty lead with net sales over ₹70 lakh and 24% profit margins, making them the most lucrative categories in your portfolio.
+- Laptop (8.53% sales, 8.94% quantity) and Lamp (8.59% sales, 8.39% quantity) show strong alignment between revenue and demand — ideal for scaling. Meanwhile, Mobile lags slightly in sales share (7.74%) despite decent quantity (8.11%), suggesting pricing or margin challenges.
+- In-Transit orders account for the highest net sales at ₹7,043,927.72 (25.26%), indicating strong ongoing fulfillment. Meanwhile, Cancelled orders still represent a significant ₹6,875,131.49 (24.65%), suggesting a need to investigate drop-off reasons and improve conversion.
+- anuary (13.66%), March (13.46%), and February (13.03%) are peak months for sales, indicating strong Q1 performance. The remaining months average around 6–7%, suggesting seasonal dips and opportunities for targeted campaigns.
 
