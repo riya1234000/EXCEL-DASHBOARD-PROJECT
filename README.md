@@ -33,6 +33,10 @@ This dashboard allows users to analyze business performance across multiple dime
 ## Dashboard Screenshot
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/67a939f9-f9d6-478e-91e6-fd8429a70bbe" />
 
+## Project Insights
+West Region Leads in Performance
+The West region has the highest total value: ₹5,835,615.62, accounting for 21.00% of the overall share.
 
+This suggests strong customer engagement or sales volume in that region — a potential area for further investment or expansion.
 
 
