@@ -24,14 +24,18 @@ This dashboard allows users to analyze business performance across multiple dime
 ## Dashboard interactive 
 - <a href="https://github.com/riya1234000/EXCEL-DASHBOARD-PROJECT/blob/main/rdashboard.png"> view Dashboard </a>
 
+
+
+
+<img src="https://github.com/riya1234000/EXCEL-DASHBOARD-PROJECT/blob/main/Screenshot%202026-02-14%20024203.png" alt="Image Description" width="1000">
+
 ## Process
 - verify data for any missing value and anomalies sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-## Dashboard Screenshot
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/67a939f9-f9d6-478e-91e6-fd8429a70bbe" />
+
 
 ## Project Insights
 - The West region leads with ₹5,835,615.62 in net sales and a 21.00% profit share, indicating peak performance. In contrast, the South region trails with ₹5,333,577.25 and 19.14%, highlighting room for strategic improvement.
